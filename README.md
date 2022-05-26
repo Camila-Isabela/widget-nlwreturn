@@ -32,14 +32,6 @@
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-  <!-- <a href="https://github.com/Camila-Isabela">
-    <img alt="Made by Igor Thierry" src="https://img.shields.io/badge/Made%20by-Igor%20Thierry-2ecc71">
-  </a>
-
-  <a href="https://www.linkedin.com/in/camila-isabela/" target="_blank">
-    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-igorthierry-2ecc71?style=social&logo=linkedin">
-  </a> -->
 </p>
 
 ## 🚀 Projeto
