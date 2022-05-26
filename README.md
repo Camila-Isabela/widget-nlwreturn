@@ -47,6 +47,4 @@
 
 <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71"> -->
 
-Feito com ♥ by [Camila Isabela](https://www.linkedin.com/in/camila-isabela/)
-
-<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
+Feito com ♥ by Camila Isabela <br><br> <a href="https://www.linkedin.com/in/camila-isabela" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
